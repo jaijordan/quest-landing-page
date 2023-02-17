@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quest-landing-page/static/css/main.874cd138.css",
+    "main.js": "/quest-landing-page/static/js/main.a0099575.js",
+    "static/js/787.e3808bbb.chunk.js": "/quest-landing-page/static/js/787.e3808bbb.chunk.js",
+    "index.html": "/quest-landing-page/index.html",
+    "main.874cd138.css.map": "/quest-landing-page/static/css/main.874cd138.css.map",
+    "main.a0099575.js.map": "/quest-landing-page/static/js/main.a0099575.js.map",
+    "787.e3808bbb.chunk.js.map": "/quest-landing-page/static/js/787.e3808bbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874cd138.css",
+    "static/js/main.a0099575.js"
+  ]
+}
